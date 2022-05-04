@@ -1,0 +1,722 @@
+{"sensordata":
+[
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 40,
+    "lat": 50.869868,
+    "sensorId": "1003",
+    "timestamp": "2018-02-25T01:00:42.947Z",
+    "SID": "769a4fee-3628-42b6-861f-94bf9119cb6b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677137,
+    "type": "noise",
+    "measurement": 52,
+    "lat": 50.870139,
+    "sensorId": "1009",
+    "timestamp": "2018-02-25T01:00:43.349Z",
+    "SID": "e1d3d858-7840-47fd-85a2-0693c84f46cb",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675549,
+    "type": "noise",
+    "measurement": 50,
+    "lat": 50.869807,
+    "sensorId": "1004",
+    "timestamp": "2018-02-25T01:00:46.768Z",
+    "SID": "4e6a9f3a-e8c0-4c6e-8cfd-9353c1972859",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677561,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869868,
+    "sensorId": "1007",
+    "timestamp": "2018-02-25T01:00:48.956Z",
+    "SID": "dd204848-f607-4445-b81a-1c2f83cb3cc3",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.67666,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869489,
+    "sensorId": "1010",
+    "timestamp": "2018-02-25T01:00:54.789Z",
+    "SID": "809ddf6b-1c9a-4b0c-b112-49946baf871d",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.676842,
+    "type": "noise",
+    "measurement": 40,
+    "lat": 50.869583,
+    "sensorId": "1008",
+    "timestamp": "2018-02-25T01:01:03.747Z",
+    "SID": "9c642ff2-31f5-425f-8153-f2bd1b24687b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675721,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869759,
+    "sensorId": "1002",
+    "timestamp": "2018-02-25T01:01:20.738Z",
+    "SID": "fa699625-9b47-4f7b-be91-4f2444165eb6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677304,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869814,
+    "sensorId": "1006",
+    "timestamp": "2018-02-25T01:01:25.820Z",
+    "SID": "55ed78a2-2295-4c94-912a-af07204bf7a2",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 62,
+    "lat": 50.870142,
+    "sensorId": "1015",
+    "timestamp": "2018-02-25T01:01:26.959Z",
+    "SID": "e8efa881-523c-4c34-8d9c-d61b9880bed6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.698428,
+    "type": "noise",
+    "measurement": 64,
+    "lat": 50.876875,
+    "sensorId": "1005",
+    "timestamp": "2018-02-25T01:01:30.307Z",
+    "SID": "039f592c-26d2-43f8-94b6-2895a61bc641",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.676842,
+    "type": "noise",
+    "measurement": 40,
+    "lat": 50.869583,
+    "sensorId": "1008",
+    "timestamp": "2018-02-25T01:02:04.058Z",
+    "SID": "9c642ff2-31f5-425f-8153-f2bd1b24687b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675721,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869759,
+    "sensorId": "1002",
+    "timestamp": "2018-02-25T01:02:20.945Z",
+    "SID": "fa699625-9b47-4f7b-be91-4f2444165eb6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677304,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869814,
+    "sensorId": "1006",
+    "timestamp": "2018-02-25T01:02:26.092Z",
+    "SID": "55ed78a2-2295-4c94-912a-af07204bf7a2",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 63,
+    "lat": 50.870142,
+    "sensorId": "1015",
+    "timestamp": "2018-02-25T01:02:27.194Z",
+    "SID": "e8efa881-523c-4c34-8d9c-d61b9880bed6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.698428,
+    "type": "noise",
+    "measurement": 60,
+    "lat": 50.876875,
+    "sensorId": "1005",
+    "timestamp": "2018-02-25T01:02:30.535Z",
+    "SID": "039f592c-26d2-43f8-94b6-2895a61bc641",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675549,
+    "type": "noise",
+    "measurement": 50,
+    "lat": 50.869807,
+    "sensorId": "1004",
+    "timestamp": "2018-02-25T01:02:40.171Z",
+    "SID": "4e6a9f3a-e8c0-4c6e-8cfd-9353c1972859",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677561,
+    "type": "noise",
+    "measurement": 55,
+    "lat": 50.869868,
+    "sensorId": "1007",
+    "timestamp": "2018-02-25T01:02:42.321Z",
+    "SID": "dd204848-f607-4445-b81a-1c2f83cb3cc3",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 51,
+    "lat": 50.869868,
+    "sensorId": "1003",
+    "timestamp": "2018-02-25T01:02:43.582Z",
+    "SID": "769a4fee-3628-42b6-861f-94bf9119cb6b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677137,
+    "type": "noise",
+    "measurement": 52,
+    "lat": 50.870139,
+    "sensorId": "1009",
+    "timestamp": "2018-02-25T01:02:43.831Z",
+    "SID": "e1d3d858-7840-47fd-85a2-0693c84f46cb",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.67666,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869489,
+    "sensorId": "1010",
+    "timestamp": "2018-02-25T01:02:55.281Z",
+    "SID": "809ddf6b-1c9a-4b0c-b112-49946baf871d",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.698428,
+    "type": "noise",
+    "measurement": 62,
+    "lat": 50.876875,
+    "sensorId": "1005",
+    "timestamp": "2018-02-25T01:03:30.777Z",
+    "SID": "039f592c-26d2-43f8-94b6-2895a61bc641",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 51,
+    "lat": 50.869868,
+    "sensorId": "1003",
+    "timestamp": "2018-02-25T01:03:43.895Z",
+    "SID": "769a4fee-3628-42b6-861f-94bf9119cb6b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677137,
+    "type": "noise",
+    "measurement": 52,
+    "lat": 50.870139,
+    "sensorId": "1009",
+    "timestamp": "2018-02-25T01:03:44.072Z",
+    "SID": "e1d3d858-7840-47fd-85a2-0693c84f46cb",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675549,
+    "type": "noise",
+    "measurement": 51,
+    "lat": 50.869807,
+    "sensorId": "1004",
+    "timestamp": "2018-02-25T01:03:47.536Z",
+    "SID": "4e6a9f3a-e8c0-4c6e-8cfd-9353c1972859",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677561,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869868,
+    "sensorId": "1007",
+    "timestamp": "2018-02-25T01:03:48.670Z",
+    "SID": "dd204848-f607-4445-b81a-1c2f83cb3cc3",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.67666,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869489,
+    "sensorId": "1010",
+    "timestamp": "2018-02-25T01:03:55.526Z",
+    "SID": "809ddf6b-1c9a-4b0c-b112-49946baf871d",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.676842,
+    "type": "noise",
+    "measurement": 40,
+    "lat": 50.869583,
+    "sensorId": "1008",
+    "timestamp": "2018-02-25T01:04:04.651Z",
+    "SID": "9c642ff2-31f5-425f-8153-f2bd1b24687b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675721,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869759,
+    "sensorId": "1002",
+    "timestamp": "2018-02-25T01:04:21.368Z",
+    "SID": "fa699625-9b47-4f7b-be91-4f2444165eb6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677304,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869814,
+    "sensorId": "1006",
+    "timestamp": "2018-02-25T01:04:26.619Z",
+    "SID": "55ed78a2-2295-4c94-912a-af07204bf7a2",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 57,
+    "lat": 50.870142,
+    "sensorId": "1015",
+    "timestamp": "2018-02-25T01:04:27.724Z",
+    "SID": "e8efa881-523c-4c34-8d9c-d61b9880bed6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.676842,
+    "type": "noise",
+    "measurement": 40,
+    "lat": 50.869583,
+    "sensorId": "1008",
+    "timestamp": "2018-02-25T01:05:04.954Z",
+    "SID": "9c642ff2-31f5-425f-8153-f2bd1b24687b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675721,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869759,
+    "sensorId": "1002",
+    "timestamp": "2018-02-25T01:05:21.581Z",
+    "SID": "fa699625-9b47-4f7b-be91-4f2444165eb6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677304,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869814,
+    "sensorId": "1006",
+    "timestamp": "2018-02-25T01:05:26.876Z",
+    "SID": "55ed78a2-2295-4c94-912a-af07204bf7a2",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 58,
+    "lat": 50.870142,
+    "sensorId": "1015",
+    "timestamp": "2018-02-25T01:05:27.927Z",
+    "SID": "e8efa881-523c-4c34-8d9c-d61b9880bed6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.698428,
+    "type": "noise",
+    "measurement": 68,
+    "lat": 50.876875,
+    "sensorId": "1005",
+    "timestamp": "2018-02-25T01:05:31.271Z",
+    "SID": "039f592c-26d2-43f8-94b6-2895a61bc641",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675549,
+    "type": "noise",
+    "measurement": 51,
+    "lat": 50.869807,
+    "sensorId": "1004",
+    "timestamp": "2018-02-25T01:05:40.897Z",
+    "SID": "4e6a9f3a-e8c0-4c6e-8cfd-9353c1972859",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677561,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869868,
+    "sensorId": "1007",
+    "timestamp": "2018-02-25T01:05:43.163Z",
+    "SID": "dd204848-f607-4445-b81a-1c2f83cb3cc3",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 40,
+    "lat": 50.869868,
+    "sensorId": "1003",
+    "timestamp": "2018-02-25T01:05:44.528Z",
+    "SID": "769a4fee-3628-42b6-861f-94bf9119cb6b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677137,
+    "type": "noise",
+    "measurement": 52,
+    "lat": 50.870139,
+    "sensorId": "1009",
+    "timestamp": "2018-02-25T01:05:44.547Z",
+    "SID": "e1d3d858-7840-47fd-85a2-0693c84f46cb",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.67666,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869489,
+    "sensorId": "1010",
+    "timestamp": "2018-02-25T01:05:56.017Z",
+    "SID": "809ddf6b-1c9a-4b0c-b112-49946baf871d",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.698428,
+    "type": "noise",
+    "measurement": 52,
+    "lat": 50.876875,
+    "sensorId": "1005",
+    "timestamp": "2018-02-25T01:06:31.508Z",
+    "SID": "039f592c-26d2-43f8-94b6-2895a61bc641",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675549,
+    "type": "noise",
+    "measurement": 51,
+    "lat": 50.869807,
+    "sensorId": "1004",
+    "timestamp": "2018-02-25T01:06:41.144Z",
+    "SID": "4e6a9f3a-e8c0-4c6e-8cfd-9353c1972859",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677561,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869868,
+    "sensorId": "1007",
+    "timestamp": "2018-02-25T01:06:43.398Z",
+    "SID": "dd204848-f607-4445-b81a-1c2f83cb3cc3",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677137,
+    "type": "noise",
+    "measurement": 52,
+    "lat": 50.870139,
+    "sensorId": "1009",
+    "timestamp": "2018-02-25T01:06:44.792Z",
+    "SID": "e1d3d858-7840-47fd-85a2-0693c84f46cb",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 55,
+    "lat": 50.869868,
+    "sensorId": "1003",
+    "timestamp": "2018-02-25T01:06:44.846Z",
+    "SID": "769a4fee-3628-42b6-861f-94bf9119cb6b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.67666,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869489,
+    "sensorId": "1010",
+    "timestamp": "2018-02-25T01:06:56.262Z",
+    "SID": "809ddf6b-1c9a-4b0c-b112-49946baf871d",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.676842,
+    "type": "noise",
+    "measurement": 40,
+    "lat": 50.869583,
+    "sensorId": "1008",
+    "timestamp": "2018-02-25T01:07:05.613Z",
+    "SID": "9c642ff2-31f5-425f-8153-f2bd1b24687b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675721,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869759,
+    "sensorId": "1002",
+    "timestamp": "2018-02-25T01:07:22.004Z",
+    "SID": "fa699625-9b47-4f7b-be91-4f2444165eb6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677304,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869814,
+    "sensorId": "1006",
+    "timestamp": "2018-02-25T01:07:27.435Z",
+    "SID": "55ed78a2-2295-4c94-912a-af07204bf7a2",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.870142,
+    "sensorId": "1015",
+    "timestamp": "2018-02-25T01:07:28.384Z",
+    "SID": "e8efa881-523c-4c34-8d9c-d61b9880bed6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.676842,
+    "type": "noise",
+    "measurement": 40,
+    "lat": 50.869583,
+    "sensorId": "1008",
+    "timestamp": "2018-02-25T01:08:05.858Z",
+    "SID": "9c642ff2-31f5-425f-8153-f2bd1b24687b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675721,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869759,
+    "sensorId": "1002",
+    "timestamp": "2018-02-25T01:08:22.215Z",
+    "SID": "fa699625-9b47-4f7b-be91-4f2444165eb6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677304,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869814,
+    "sensorId": "1006",
+    "timestamp": "2018-02-25T01:08:27.683Z",
+    "SID": "55ed78a2-2295-4c94-912a-af07204bf7a2",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 61,
+    "lat": 50.870142,
+    "sensorId": "1015",
+    "timestamp": "2018-02-25T01:08:28.609Z",
+    "SID": "e8efa881-523c-4c34-8d9c-d61b9880bed6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.698428,
+    "type": "noise",
+    "measurement": 62,
+    "lat": 50.876875,
+    "sensorId": "1005",
+    "timestamp": "2018-02-25T01:08:32.009Z",
+    "SID": "039f592c-26d2-43f8-94b6-2895a61bc641",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675549,
+    "type": "noise",
+    "measurement": 51,
+    "lat": 50.869807,
+    "sensorId": "1004",
+    "timestamp": "2018-02-25T01:08:41.612Z",
+    "SID": "4e6a9f3a-e8c0-4c6e-8cfd-9353c1972859",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677561,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869868,
+    "sensorId": "1007",
+    "timestamp": "2018-02-25T01:08:43.851Z",
+    "SID": "dd204848-f607-4445-b81a-1c2f83cb3cc3",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677137,
+    "type": "noise",
+    "measurement": 52,
+    "lat": 50.870139,
+    "sensorId": "1009",
+    "timestamp": "2018-02-25T01:08:45.282Z",
+    "SID": "e1d3d858-7840-47fd-85a2-0693c84f46cb",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 51,
+    "lat": 50.869868,
+    "sensorId": "1003",
+    "timestamp": "2018-02-25T01:08:45.484Z",
+    "SID": "769a4fee-3628-42b6-861f-94bf9119cb6b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.67666,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869489,
+    "sensorId": "1010",
+    "timestamp": "2018-02-25T01:08:56.754Z",
+    "SID": "809ddf6b-1c9a-4b0c-b112-49946baf871d",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.698428,
+    "type": "noise",
+    "measurement": 64,
+    "lat": 50.876875,
+    "sensorId": "1005",
+    "timestamp": "2018-02-25T01:09:32.219Z",
+    "SID": "039f592c-26d2-43f8-94b6-2895a61bc641",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675549,
+    "type": "noise",
+    "measurement": 51,
+    "lat": 50.869807,
+    "sensorId": "1004",
+    "timestamp": "2018-02-25T01:09:41.846Z",
+    "SID": "4e6a9f3a-e8c0-4c6e-8cfd-9353c1972859",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677561,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869868,
+    "sensorId": "1007",
+    "timestamp": "2018-02-25T01:09:44.074Z",
+    "SID": "dd204848-f607-4445-b81a-1c2f83cb3cc3",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677137,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.870139,
+    "sensorId": "1009",
+    "timestamp": "2018-02-25T01:09:45.542Z",
+    "SID": "e1d3d858-7840-47fd-85a2-0693c84f46cb",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 51,
+    "lat": 50.869868,
+    "sensorId": "1003",
+    "timestamp": "2018-02-25T01:09:45.803Z",
+    "SID": "769a4fee-3628-42b6-861f-94bf9119cb6b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.67666,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869489,
+    "sensorId": "1010",
+    "timestamp": "2018-02-25T01:09:56.996Z",
+    "SID": "809ddf6b-1c9a-4b0c-b112-49946baf871d",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.676842,
+    "type": "noise",
+    "measurement": 40,
+    "lat": 50.869583,
+    "sensorId": "1008",
+    "timestamp": "2018-02-25T01:10:06.461Z",
+    "SID": "9c642ff2-31f5-425f-8153-f2bd1b24687b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675721,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869759,
+    "sensorId": "1002",
+    "timestamp": "2018-02-25T01:10:22.638Z",
+    "SID": "fa699625-9b47-4f7b-be91-4f2444165eb6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.677304,
+    "type": "noise",
+    "measurement": 53,
+    "lat": 50.869814,
+    "sensorId": "1006",
+    "timestamp": "2018-02-25T01:10:28.213Z",
+    "SID": "55ed78a2-2295-4c94-912a-af07204bf7a2",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675012,
+    "type": "noise",
+    "measurement": 62,
+    "lat": 50.870142,
+    "sensorId": "1015",
+    "timestamp": "2018-02-25T01:10:29.096Z",
+    "SID": "e8efa881-523c-4c34-8d9c-d61b9880bed6",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.676842,
+    "type": "noise",
+    "measurement": 40,
+    "lat": 50.869583,
+    "sensorId": "1008",
+    "timestamp": "2018-02-25T01:11:06.767Z",
+    "SID": "9c642ff2-31f5-425f-8153-f2bd1b24687b",
+    "eventType": "BDHEnvironmentEventType"
+  },
+  {
+    "lng": 9.675721,
+    "type": "noise",
+    "measurement": 56,
+    "lat": 50.869759,
+    "sensorId": "1002",
+    "timestamp": "2018-02-25T01:11:22.849Z",
+    "SID": "fa699625-9b47-4f7b-be91-4f2444165eb6",
+    "eventType": "BDHEnvironmentEventType"
+  }]}
